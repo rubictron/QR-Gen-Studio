@@ -1,0 +1,8 @@
+{
+  "name": "QR Gen Studio - by rubictron",
+  "description": "A professional AI-powered QR code generator supporting vCards, WiFi, URLs, and custom branding. Built by rubictron using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
